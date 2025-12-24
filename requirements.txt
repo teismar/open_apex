@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+rapidocr_onnxruntime
+pdf2image
+plotly
+protobuf

@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments (Poetry/Venv)
+.venv/
+venv/
+env/
+.env
+
+# Streamlit config (secrets, etc)
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Data (Don't commit race results!)
+*.pdf
+*.csv
+
+# Mac junk
+.DS_Store

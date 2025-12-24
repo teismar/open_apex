@@ -1,0 +1,10 @@
+services:
+  openapex:
+    build: .
+    container_name: openapex
+    ports:
+      - "8501:8501"
+    volumes:
+      # Optional: Mount current directory for development so edits reflect instantly
+      - ./:/app
+    restart: unless-stopped
