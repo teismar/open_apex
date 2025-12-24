@@ -26,7 +26,7 @@ The easiest way to run OpenApex is via Docker.
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/yourusername/OpenApex.git](https://github.com/yourusername/OpenApex.git)
+    git clone [https://github.com/teismar/open_apex.git](https://github.com/teismar/open_apex.git)
     cd OpenApex
     ```
 
